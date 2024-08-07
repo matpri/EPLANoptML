@@ -16,7 +16,6 @@ EPLANoptML is an innovative approach that integrates machine learning algorithms
 
 - EnergyPLAN version >=15.1 (Download from [EnergyPLAN website](https://www.energyplan.eu/))
 - Python 3.x
-- Required Python libraries (list to be added)
 
 ## How to Use
 
@@ -37,7 +36,6 @@ EPLANoptML demonstrates:
 - Computational time savings: 64-74% compared to traditional EPLANopt
 - Accuracy maintenance: Close to that of full EPLANopt runs
 
-(Additional details on results and how to interpret them can be added here)
 
 ## How to Cite EPLANoptML
 
